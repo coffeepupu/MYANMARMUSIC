@@ -11,7 +11,7 @@
   
   <!-- Bold and vibrant badges with striking combinations -->
   <p>
-    <a href="https://t.me/ShrutiBots">
+    <a href="https://t.me/myanmar_music_Bot2027">
       <img src="https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Support Channel">
     </a>
     <a href="https://t.me/myanmar_music_Bot2027">
@@ -319,6 +319,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**🎵 Enjoy Streaming Music with MYANMAR Bot! 🎵**
+**🎵 Enjoy Streaming Music with MYANMAR MUSIC BOT! 🎵**
+
 
 </div>
