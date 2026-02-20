@@ -1,12 +1,12 @@
 {
-  "name": "Shruti Music",
+  "name": "myanmar Music",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://files.catbox.moe/v7hio8.jpg",
+  "logo": "https://files.catbox.moe/jebxwm.jpg",
   "keywords": [
     "python3",
     "telegram",
     "bot",
-    "MYANMAR MUSIC",
+    "HANTHAR1999_Bots",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "29448785",
+      "value": "30566096",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "599574f6aff0a09ebb76305b58e7e9c2",
+      "value": "571416932b7adcd28b5e69b2cd3d34b7",
       "required": true
     },
     "BOT_TOKEN": {
@@ -39,7 +39,7 @@
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "HANTHAR1999_Bot",
       "required": true
     },
     "UPSTREAM_REPO": {
