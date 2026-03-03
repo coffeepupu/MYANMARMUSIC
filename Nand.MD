@@ -261,7 +261,7 @@ Example : `screen -r 108108`
 
 ## 🔄 How to Generate Session String
 
-Use our Session Generator Bot: [@Sessionbbbot](https://t.me/Sessionbbbot)
+Use our Session Generator Bot: [@Panda_king_HTbot](https://t.me/Panda_king_HTbot)
 
 1. **Start the bot**
 2. **Send phone number with country code**
